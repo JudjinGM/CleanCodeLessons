@@ -1,4 +1,4 @@
-package com.example.cleancodeusecase.domain.models
+package com.example.cleancodetest.domain.models
 
 class UserName(val firstName: String, val lastName:String) {
 }
